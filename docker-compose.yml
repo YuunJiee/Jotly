@@ -1,5 +1,5 @@
 services:
-  web:
+  jotly:
     build: .
     image: jotly:latest
     container_name: jotly
